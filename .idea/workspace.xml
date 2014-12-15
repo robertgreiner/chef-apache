@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59d0e7b4-ae32-4021-a05b-565cba4fb60b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cookbooks/apache/recipes/default.rb" afterPath="$PROJECT_DIR$/cookbooks/apache/recipes/default.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cookbooks/apache/templates/default/index.html.erb" afterPath="$PROJECT_DIR$/cookbooks/apache/templates/default/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="59d0e7b4-ae32-4021-a05b-565cba4fb60b" name="Default" comment="" />
     <ignored path="chef-repo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -31,8 +27,8 @@
       <file leaf-file-name="default.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cookbooks/apache/recipes/default.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37037036" vertical-offset="0" max-vertical-offset="729">
-              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.3909465" vertical-offset="0" max-vertical-offset="729">
+              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -396,8 +392,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cookbooks/apache/recipes/default.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37037036" vertical-offset="0" max-vertical-offset="729">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.3909465" vertical-offset="0" max-vertical-offset="729">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
           <folding />
         </state>
       </provider>
