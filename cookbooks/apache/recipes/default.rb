@@ -14,3 +14,7 @@ template "/var/www/html/index.html" do
   source "index.html.erb"
   mode "0644"
 end
+
+service "iptables" do
+  action [ :disable, :stop ]
+end
