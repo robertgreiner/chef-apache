@@ -1,0 +1,1 @@
+default["apache"]["greeting"] = "Apache Web Server installed and configured properly"
